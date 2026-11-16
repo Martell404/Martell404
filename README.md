@@ -5,15 +5,10 @@
 ### About me 
 #
 👾 Engineering student going through it
-
 🤖 Passionate about lots of things (too many prob)
-
 ⚙️ Love tech and inovation 
-
 📕 Love studying and learning
-
 🎮 Play videogames at times
-
 🎥 Like 3D modeling
 
 ### Languages and Tools
